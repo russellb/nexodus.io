@@ -1,4 +1,4 @@
-baseurl = "https://nexodus.io"
+baseurl = "https://nexodus.netlify.app"
 DefaultContentLanguage = "en"
 title = "Nexodus"
 theme = "beautifulhugo"
